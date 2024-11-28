@@ -86,5 +86,5 @@ document.addEventListener("keydown", (event) => {
 
 // Iniciar el juego
 loadScores(); // Cargar puntuaciones al inicio
-updateScores(); // Refrescar las barras y puntuaciones
+updateScores(); // recargar las barras y puntuaciones
 startGame();
